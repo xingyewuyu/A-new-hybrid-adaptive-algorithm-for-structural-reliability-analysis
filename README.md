@@ -4,6 +4,8 @@ Prior to executing the code, MATLAB R2014b must be installed to ensure proper op
 
 Additionally, based on the actual installation location of ANSYS, the value of string2 in run_ansys.m needs to be modified to point to the actual location of ANSYS221.exe.
 
+Please run the test file named "test_first_EN.m".
+
 The variable type in the code represents different test instances. Modifying its value allows testing different cases, where:
 
 type = 1 corresponds to Case 1? in Example 1 of the paper.
